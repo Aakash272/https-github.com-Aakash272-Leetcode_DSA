@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0041-first-missing-positive) |
+## String
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->

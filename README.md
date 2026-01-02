@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->

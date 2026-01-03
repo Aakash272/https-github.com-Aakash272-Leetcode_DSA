@@ -60,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0620-not-boring-movies) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

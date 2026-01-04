@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0620-not-boring-movies) |
 ## Stack
 |  |

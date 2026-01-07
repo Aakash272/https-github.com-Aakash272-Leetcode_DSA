@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1075-project-employees-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Stack
 |  |
 | ------- |

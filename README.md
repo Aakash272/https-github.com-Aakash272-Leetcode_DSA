@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0620-not-boring-movies) |

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3798-largest-even-number](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3798-largest-even-number) |
 ## Prefix Sum
 |  |
 | ------- |

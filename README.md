@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0371-sum-of-two-integers) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
 ## Counting
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |

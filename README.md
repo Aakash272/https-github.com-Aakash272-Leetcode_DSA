@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0290-word-pattern) |
 | [0791-custom-sort-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0791-custom-sort-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0142-linked-list-cycle-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->

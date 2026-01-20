@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
 ## String
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
 <!---LeetCode Topics End-->

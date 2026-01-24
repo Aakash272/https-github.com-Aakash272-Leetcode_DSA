@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
+| [0198-house-robber](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0198-house-robber) |
 ## Enumeration
 |  |
 | ------- |

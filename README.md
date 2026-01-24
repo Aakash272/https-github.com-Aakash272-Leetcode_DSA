@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0371-sum-of-two-integers) |
@@ -169,9 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 ## Enumeration
 |  |
 | ------- |
 | [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

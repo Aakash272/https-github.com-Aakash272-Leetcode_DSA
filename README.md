@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0066-plus-one) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

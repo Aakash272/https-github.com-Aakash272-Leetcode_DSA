@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0066-plus-one) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -191,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
 ## Greedy
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |

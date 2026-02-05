@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3379-transformed-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
@@ -213,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3379-transformed-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3379-transformed-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->

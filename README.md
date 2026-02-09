@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0042-trapping-rain-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->

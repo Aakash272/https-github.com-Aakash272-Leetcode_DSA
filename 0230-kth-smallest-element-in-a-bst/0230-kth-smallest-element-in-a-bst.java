@@ -14,28 +14,37 @@
  * }
  */
 class Solution {
-    public int helper(TreeNode root,int k){
-        Queue<TreeNode> q=new LinkedList<>();
-        q.offer(root);
-        List<Integer> ap=new ArrayList<>();
-        while(!q.isEmpty()){
-            int l=q.size();
-            for(int i=0;i<l;i++){
-          TreeNode x=q.poll();
-          ap.add(x.val);
-          if(x.left!=null) q.offer(x.left);
-          if(x.right!=null) q.offer(x.right);
-            }
+    public void inorder(TreeNode root,List<Integer> ap){
+        if(root==null){
+            return ;
         }
-        Collections.sort(ap);
-        int res=ap.get(k-1);
-        return res;
-
+    inorder(root.left,ap);
+    ap.add(root.val);
+    inorder(root.right,ap);
+    }
+    public int check(List<Integer> ap,int k){
+       int l=0;
+       int r=ap.size()-1;
+       while(l<=r){
+        int mid=l+(r-l)/2;
+        if(mid==k){
+            return ap.get(mid-1);
+        }
+        else if(mid>k){
+            r=mid-1;
+        }
+        else{
+            l=mid+1;
+        }
+       }
+       return ap.get(k-1);
     }
     public int kthSmallest(TreeNode root, int k) {
-        if(root==null){
-            return 0;
-        }
-       return helper(root,k);
+       List<Integer> ap=new ArrayList<>();
+       inorder(root,ap); 
+       if(ap.size()==1 && k==1){
+        return ap.get(0);
+       }
+       return check(ap,k);
     }
 }

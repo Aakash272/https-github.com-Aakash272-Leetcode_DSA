@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0046-permutations) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |

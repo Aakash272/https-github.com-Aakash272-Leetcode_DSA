@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion

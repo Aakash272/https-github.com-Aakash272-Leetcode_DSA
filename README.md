@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
 ## Counting
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0633-sum-of-square-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |

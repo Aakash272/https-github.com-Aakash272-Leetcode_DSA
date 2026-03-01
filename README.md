@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0198-house-robber) |

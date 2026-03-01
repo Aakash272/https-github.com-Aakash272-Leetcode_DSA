@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0402-remove-k-digits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |

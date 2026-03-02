@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0890-find-and-replace-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Enumeration
 |  |
 | ------- |

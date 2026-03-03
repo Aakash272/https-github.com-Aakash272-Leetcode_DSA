@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Geometry
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3379-transformed-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3379-transformed-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Monotonic Stack

@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Enumeration

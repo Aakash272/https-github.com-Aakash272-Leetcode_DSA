@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0791-custom-sort-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1143-longest-common-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2786-visit-array-positions-to-maximize-score) |

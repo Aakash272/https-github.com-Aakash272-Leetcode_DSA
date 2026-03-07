@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0890-find-and-replace-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |

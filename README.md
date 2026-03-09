@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Enumeration
 |  |
 | ------- |

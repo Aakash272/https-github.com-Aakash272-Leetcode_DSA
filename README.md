@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
+| [1550-three-consecutive-odds](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1550-three-consecutive-odds) |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

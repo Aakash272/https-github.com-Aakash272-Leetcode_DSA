@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -319,12 +320,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Simulation
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3379-transformed-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Monotonic Stack
 |  |

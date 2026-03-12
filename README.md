@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -364,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

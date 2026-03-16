@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Geometry
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |

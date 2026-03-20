@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0049-group-anagrams) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |

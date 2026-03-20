@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0791-custom-sort-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0890-find-and-replace-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0890-find-and-replace-pattern) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 ## Binary Search Tree
 |  |
 | ------- |

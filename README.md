@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
 | [1550-three-consecutive-odds](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1550-three-consecutive-odds) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Breadth-First Search

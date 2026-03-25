@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
 | [1550-three-consecutive-odds](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1550-three-consecutive-odds) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0791-custom-sort-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0791-custom-sort-string) |
 | [1288-remove-covered-intervals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
 ## Linked List
 |  |
 | ------- |

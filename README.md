@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-number-of-changing-keys](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3019-number-of-changing-keys) |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3798-largest-even-number) |
 ## Prefix Sum

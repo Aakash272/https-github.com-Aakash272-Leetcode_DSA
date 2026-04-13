@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0657-robot-return-to-origin) |
 | [0791-custom-sort-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0890-find-and-replace-pattern) |
+| [1092-shortest-common-supersequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |

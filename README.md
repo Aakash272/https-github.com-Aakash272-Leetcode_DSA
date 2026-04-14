@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0511-game-play-analysis-i) |

@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1980-find-unique-binary-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2833-furthest-point-from-origin](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-number-of-changing-keys](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3019-number-of-changing-keys) |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |

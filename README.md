@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1980-find-unique-binary-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
 ## String
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |

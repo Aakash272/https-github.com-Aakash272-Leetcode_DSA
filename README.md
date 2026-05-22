@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1025-divisor-game) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Binary Indexed Tree
 |  |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |

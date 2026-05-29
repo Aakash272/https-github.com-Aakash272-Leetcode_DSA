@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
 |  |
 | ------- |

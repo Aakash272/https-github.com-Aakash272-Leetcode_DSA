@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -413,10 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
 ## Combinatorics
 |  |

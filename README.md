@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
 | [1550-three-consecutive-odds](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1550-three-consecutive-odds) |
 | [1629-slowest-key](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1629-slowest-key) |
+| [1732-find-the-highest-altitude](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |

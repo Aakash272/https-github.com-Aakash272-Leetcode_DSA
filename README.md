@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1390-four-divisors) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1550-three-consecutive-odds](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1550-three-consecutive-odds) |
 | [1629-slowest-key](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1629-slowest-key) |
 | [1732-find-the-highest-altitude](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0846-hand-of-straights) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |

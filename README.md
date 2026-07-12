@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1661-average-time-of-process-per-machine](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1667-fix-names-in-a-table) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3220-odd-and-even-transactions](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3220-odd-and-even-transactions) |
 ## Stack
 |  |

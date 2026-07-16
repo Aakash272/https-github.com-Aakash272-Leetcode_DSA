@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -539,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

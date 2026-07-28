@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-number-of-changing-keys](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3019-number-of-changing-keys) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3798-largest-even-number) |
@@ -551,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

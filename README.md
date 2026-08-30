@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1975-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3075-maximize-happiness-of-selected-children) |

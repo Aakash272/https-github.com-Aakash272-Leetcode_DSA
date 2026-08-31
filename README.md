@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |

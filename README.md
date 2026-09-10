@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |

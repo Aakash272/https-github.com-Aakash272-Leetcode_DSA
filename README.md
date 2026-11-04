@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Aakash272/https-github.com-Aakash272-Leetcode_DSA/tree/master/3870-count-commas-in-range) |
